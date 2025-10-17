@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.omnigroup.com/omnifocus/">
+  <a href="https://osx-get-software.github.io/.github/">
     <img src="https://img.shields.io/badge/Get%20OmniFocus-darkgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get OmniFocus">
   </a>
 </p>
